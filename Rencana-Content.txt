@@ -5,8 +5,12 @@ Rencana Content 2026
  - Aplikasi Dan Tools Di HP
  - Cara Cepat Ngoding Di HP
 - Framework PHP
+ ^ Laravel
 - Framework JS
+ ^ Vue
+ ^ Angular
+ ^ React
 - Tutorial html
 - Tutorial css
 - Tutorial js
- - Struktur Data Dasar
+- Struktur Data Dasar
