@@ -4,6 +4,8 @@ Rencana Content 2026
 - Tutorial ngoding
  - Aplikasi Dan Tools Di HP
  - Cara Cepat Ngoding Di HP
+- Framework PHP
+- Framework JS
 - Tutorial html
 - Tutorial css
 - Tutorial js
