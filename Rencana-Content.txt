@@ -6,5 +6,7 @@ Rencana Content 2026
  - Cara Cepat Ngoding Di HP
 - Tutorial html
 - Tutorial css
+- Framework PHP
+- Framework JS
 - Tutorial js
- - Struktur Data Dasar
+- Struktur Data Dasar
