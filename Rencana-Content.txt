@@ -7,7 +7,12 @@ Rencana Content 2026
 - Framework PHP
  ^ Laravel
 - Framework JS
+ ^ Vue
+ ^ Angular
  ^ React
 - Tutorial html
 - Tutorial css
+- Framework PHP
+- Framework JS
 - Tutorial js
+- Struktur Data Dasar
